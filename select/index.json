@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちっちゃな私",
+  "base_artist": "マサラダ",
+  "createdAt": "2025-12-11T08:53:24.696419Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちっちゃな私",
+      "artist": "マサラダ",
+      "has_synced": false,
+      "path": "select/pl_01_ちっちゃな私_マサラダ.txt"
+    }
+  ]
+}
